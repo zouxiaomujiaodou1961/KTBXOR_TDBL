@@ -1,0 +1,40 @@
+[项目窗口数据(_D)]
+ProjectExplorer.ClassicPosition[String] = "65,548,662,895"
+
+[AB_Cache_{474458EB-85B7-4397-9557-E3F12D82476D}]
+Cache_Path[Path] = "/c/temp/AB_Cache_{474458EB-85B7-4397-9557-E3F12D82476D}.txt"
+
+[AB_Cache_{4849D42D-D2F0-4BBC-8D3E-47D3B6AF4FB1}]
+Cache_Path[Path] = "/c/temp/AB_Cache_{4849D42D-D2F0-4BBC-8D3E-47D3B6AF4FB1}.txt"
+
+[ProjectWindow_Data]
+ProjectExplorer.ClassicPosition[String] = "64,42,464,444"
+
+[AB_Cache_{BEA847AF-FC0F-45FE-A218-AC8D14E56898}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "5278fb30ec5148c5babd13d874e72703"
+Cache_GenFile_Count[Integer] = 3
+Cache_GenFile[0][Path] = "/D/working space/纳米所/EXE/电流采集0504_2.exe"
+Cache_GenFile[1][Path] = "/D/working space/纳米所/EXE/电流采集0504_2.aliases"
+Cache_GenFile[2][Path] = "/D/working space/纳米所/EXE/电流采集0504_2.ini"
+Cache_GenGUID_Count[Integer] = 3
+Cache_GenGUID[0][String] = "{8927B544-DDC1-4985-ADD7-D59D00E21C31}"
+Cache_GenGUID[1][String] = "{436B92C2-21AD-483E-8711-D12906F38CD0}"
+Cache_GenGUID[2][String] = "{3B5EAA19-50CE-4441-A7E5-8D29F1C9C8DD}"
+Cache_OutputDir[Path] = "/D/working space/纳米所/EXE"
+
+[AB_Cache_{AAFC5FDA-219E-4181-BAE0-B0BADBBF84A1}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "5278fb30ec5148c5babd13d874e72703"
+Cache_GenFile_Count[Integer] = 3
+Cache_GenFile[0][Path] = "/D/working space/纳米所/EXE/电流采集0504_2.exe"
+Cache_GenFile[1][Path] = "/D/working space/纳米所/EXE/电流采集0504_2.aliases"
+Cache_GenFile[2][Path] = "/D/working space/纳米所/EXE/电流采集0504_2.ini"
+Cache_GenGUID_Count[Integer] = 3
+Cache_GenGUID[0][String] = "{8927B544-DDC1-4985-ADD7-D59D00E21C31}"
+Cache_GenGUID[1][String] = "{436B92C2-21AD-483E-8711-D12906F38CD0}"
+Cache_GenGUID[2][String] = "{3B5EAA19-50CE-4441-A7E5-8D29F1C9C8DD}"
+Cache_OutputDir[Path] = "/D/working space/纳米所/EXE"
+
